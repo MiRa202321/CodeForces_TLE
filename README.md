@@ -28,9 +28,9 @@ This repository is organized using branches to keep different types of work clea
 
 ```
 800/
-  ┣ C.java
+  ┣ A.java
 900/
-  ┣ C.java
+  ┣ B.java
 ```
 
 Each folder represents a day of consistent problem solving. Here, 800 or 900 describes the rating of the questions in that folder. The questions which are out of ay folder represents the consecutive rating and will be updated in a folder after all the questions of that rating are done.
@@ -65,7 +65,7 @@ Only **Codeforces contest problems** are included in this branch.
 
 ## 📌 Guidelines
 
-* `main` branch is reserved strictly for daily practice
+* `master` branch is reserved strictly for daily practice
 * `contest` branch is reserved strictly for Codeforces contests
 * No mixing of practice and contest solutions
 * Clear folder and file naming for easy navigation
