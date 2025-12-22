@@ -1,4 +1,4 @@
-CodeForces_TLE
+## CodeForces_TLE
 
 This repository documents my **consistent problem solving journey in Data Structures and Algorithms**.
 It focuses on daily practice to eliminate TLEs and improve logic, along with **competitive programming contest problems from Codeforces**.
