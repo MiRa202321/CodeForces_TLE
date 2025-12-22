@@ -9,7 +9,7 @@ Consistency and discipline are the core goals of this repository.
 
 This repository is organized using branches to keep different types of work cleanly separated.
 
-### 🔹 `main` branch
+### 🔹 `master` branch
 
 * Daily problem solving
 * TLE Eliminator streak
