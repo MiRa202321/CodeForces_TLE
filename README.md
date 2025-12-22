@@ -1,6 +1,6 @@
 ## CodeForces_TLE
 
-This repository documents my **consistent problem solving journey in Data Structures and Algorithms**.
+This repository documents my **consistent problem solving journey in Data Structures and Algorithms**. I am following TLE's CP31 Sheet.
 It focuses on daily practice to eliminate TLEs and improve logic, along with **competitive programming contest problems from Codeforces**.
 
 Consistency and discipline are the core goals of this repository.
@@ -24,16 +24,22 @@ This repository is organized using branches to keep different types of work clea
 
 ## 📂 Folder Structure
 
-### 📁 `main` branch
+### 📁 `master` branch
 
-Each folder represents a day of consistent problem solving.
+```
+800/
+  ┣ C.java
+900/
+  ┣ C.java
+```
+
+Each folder represents a day of consistent problem solving. Here, 800 or 900 describes the rating of the questions in that folder. The questions which are out of ay folder represents the consecutive rating and will be updated in a folder after all the questions of that rating are done.
 
 
 ### 📁 `contest` branch
 
 ```
 Contests/
- ┗ Codeforces/
      ┣ C.java
 ```
 
